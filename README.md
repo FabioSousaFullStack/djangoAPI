@@ -17,6 +17,6 @@ Os passos para construir uma API RESTful com o Django REST framework são os seg
 - [x] Executando os passos
 
  
-Para maiores informações sobre o framework, acesee:
+Para maiores informações sobre o framework, acesse:
 [Django Rest Framework](https://www.django-rest-framework.org/)
 
